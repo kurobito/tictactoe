@@ -1,24 +1,14 @@
-# frontend
+# tictactoe
 
-## Project setup
+## Node version
 ```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
+node version: v12.14.0
 ```
 
-### Compiles and minifies for production
+## about
 ```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
+tictactoe played on the website made with vue.
+REST API made with Spring Boot connected with firebase.
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
